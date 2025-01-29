@@ -1,8 +1,8 @@
 # 瀬尾佳隆 (Yoshitaka SEO)
 
-MVP for AI / @seosoft
+MVP for AI Platform / @seosoft
 
-フリーの技術屋です。MVP for AI / MCT Alumni です。  
+フリーの技術屋です。MVP for AI Platform / MCT Alumni です。  
 AIとかクラウドとかIoTとかをやってます。講師、コンテンツ開発もやってます。  
 お仕事のご相談はいつでも大歓迎。
 
